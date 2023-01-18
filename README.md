@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @TK-DevCode
-- 👀 I’m interested in .NET Development using Xamarin and Unity to Develope Mobile Apps and Unity Games
-- 🌱 I’m currently learning https://www.coursera.org/specializations/programming-unity-game-development
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👀 I’m interested in Full Stack Web Development as well as Cross Platform Mobile Development. I focus on React and ASP.NET Development for Web and using Xamarin.Forms to Develop Mobile Apps.
+- 🌱 I’m currently learning https://www.udemy.com/course/react-the-complete-guide-incl-redux/
+- 💞️ I’m looking to collaborate on a Full Stack Web Development Project that I am working on
+- 📫 How to reach me? You can reach me on my email: kemp.tiaan123@gmail.com
 
 <!---
 TK-DevCode/TK-DevCode is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
